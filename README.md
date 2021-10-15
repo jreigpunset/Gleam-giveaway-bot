@@ -6,7 +6,7 @@
 Python bot to automatically find and complete gleam giveaways.  
 
 ![Demo](https://imgur.com/WHsk0ur.gif)  
-
+dfevfdevfdevfvdfev
 ## Warning
 
 Usage of this script is forbidden by the TOS of gleam and will probably get you banned.  
