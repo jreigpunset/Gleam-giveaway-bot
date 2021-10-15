@@ -1,0 +1,2 @@
+change .env
+run comand -> npm run snipe
